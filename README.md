@@ -11,6 +11,7 @@ An AI-powered Smart Exam Proctoring System developed using Python, OpenCV, Face 
 - Face Recognition
 - Live Camera Monitoring
 - Student Authentication
+- Multiple Person Detection 
 - AI-based Exam Monitoring
 - SQLite Database Management
 - Attendance Logging
@@ -79,8 +80,7 @@ python main.py
 # 📌 Future Improvements
 
 - Eye Tracking
-- Head Pose Detection
-- Multiple Face Detection
+- Head Pose Detection
 - Cloud Database
 - Web Dashboard
 - AI-Based Cheating Detection
