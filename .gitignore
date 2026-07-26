@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.log
+dataset/
+trained_model/
+.env
+.vscode/
