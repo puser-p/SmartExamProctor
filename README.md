@@ -139,7 +139,7 @@ The reports module generates examination reports, attendance records, and other 
 
 This screenshot shows the database storing students' examination results, helping maintain accurate records for evaluation and future reference.
 
-![Exam Results Database](screenshots/exam_results database.png)
+![Exam Results Database](screenshots/exam_results_database.png)
 
 ---
 
@@ -147,7 +147,7 @@ This screenshot shows the database storing students' examination results, helpin
 
 This database stores the answers submitted by students during examinations for result processing and verification.
 
-![Student Answers Database](screenshots/student_answers database.png)
+![Student Answers Database](screenshots/student_answers_database.png)
 
 # 📌 Future Improvements
 
